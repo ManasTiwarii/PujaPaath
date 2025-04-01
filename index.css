@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply font-sans bg-gray-50;
+}
+
+.vedic-gradient {
+  background: linear-gradient(135deg, #FF6B00 0%, #4A148C 100%);
+}

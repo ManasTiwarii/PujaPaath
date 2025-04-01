@@ -1,0 +1,39 @@
+{
+  "nav": {
+    "home": "Home",
+    "categories": "Categories",
+    "testimonials": "Testimonials",
+    "about": "About",
+    "earlyAccess": "Early Access"
+  },
+  "hero": {
+    "title": "Experience Sacred Vedic Traditions",
+    "subtitle": "Connect with authentic priests for all your spiritual needs",
+    "bookNow": "Book Now"
+  },
+  "about": {
+    "title": "About Us",
+    "description": "We are dedicated to preserving and sharing the rich traditions of Vedic culture. Our platform connects you with experienced priests who perform authentic rituals and ceremonies.",
+    "vision": "Our vision is to make Vedic services accessible to everyone while maintaining their sacred authenticity."
+  },
+  "achievements": {
+    "bookings": "Total Bookings",
+    "cities": "Cities Covered",
+    "priests": "Associated Priests"
+  },
+  "services": {
+    "title": "Our Services",
+    "hawans": "Hawans",
+    "hawansDesc": "Sacred fire ceremonies for purification and spiritual elevation",
+    "weddings": "Wedding Rituals",
+    "weddingsDesc": "Traditional Vedic marriage ceremonies and pre-wedding rituals",
+    "bhajans": "Bhajans & Kirtans",
+    "bhajansDesc": "Devotional songs and spiritual music sessions",
+    "pitraPooja": "Pitra Pooja",
+    "pitraPoojaDesc": "Ancestral worship and remembrance ceremonies",
+    "jaap": "Jaap",
+    "jaapDesc": "Meditative chanting and mantra recitation",
+    "shantiPooja": "Shanti Pooja",
+    "shantiPoojaDesc": "Peace-invoking ceremonies for harmony and well-being"
+  }
+}
